@@ -1,3 +1,7 @@
+Additions by Stephen A. Gutknecht in 2015 and later are closed-source private licensed, not MIT.
+
+Original 2013 and earlier portions:
+
 (The MIT License)
 
 Copyright (c) 20012-2013 Ami Goldenberg <ami.gold.dev@gmail.com>
